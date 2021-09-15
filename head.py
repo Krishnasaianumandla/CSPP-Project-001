@@ -37,7 +37,7 @@ greater than 1
 if ARG_CNT > 1:
     print("Usage: head.py <file>")
 """
-Head function is called with TEXT variable as argument and retunrn value is
+Head function is called with TEXT variable as argument and return value is
 printed
 """
 print(head(TEXT))
