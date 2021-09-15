@@ -20,7 +20,7 @@ ARG_CNT = len(sys.argv) - 1
 Prints the String in the print funtion if ARG_CNT value is not equal to 1
 """
 if ARG_CNT != 1:
-    print('Usage: curl [URL]...')
+    print('Usage: curl [URL]..')
 """
 Second argument on the console is stored in to URL variable if ARG_CNT 
 variable value is 1 and if http is not the start of second argument,
